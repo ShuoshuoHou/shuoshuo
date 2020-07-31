@@ -9,17 +9,17 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "CV"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Research"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Teaching"
   url = "#featured"
   weight = 40
 
