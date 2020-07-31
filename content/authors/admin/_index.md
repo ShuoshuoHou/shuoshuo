@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shuoshuo Hou
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Pd.D. Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Temple University
+  url: "https://www.temple.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Welcome! I am a current Pd.D. Candidate in Economics major at Temple University. I study real business cycle from the micro and macro perspective. I expect to enter the job market in summer 2021.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Macroeconomics, with a focus on Production Networks and Financial Frictions
+- Financial Economics
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics 
+    institution: Temple University
+    year: 2021 (expected)
+  - course: MA in Economics
+    institution: Temple University
+    year: 2014
+  - course: BS in Information and Computing Science
+    institution: Shenyang Agricultural University, China
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
