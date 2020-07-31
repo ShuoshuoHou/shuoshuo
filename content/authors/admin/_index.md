@@ -21,7 +21,7 @@ organizations:
 bio: Welcome! I am a current Pd.D. Candidate in Economics major at Temple University. I study real business cycle from the micro and macro perspective. I expect to enter the job market in summer 2021.
 
 interests:
-- Macroeconomics, with a focus on Production Networks and Financial Frictions
+- Macroeconomics, with a focus on *Production Networks* and *Financial Frictions*
 - Financial Economics
 
 
