@@ -72,14 +72,14 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
  
 +++
 
-**[Temple University](https://www.cla.temple.edu/economics/) Undergraduate Instructor** <br/>
+**Undergraduate Instructor, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
 **Fall/Spring 2020, Summer 2016-2019**
 
-+ Econ 1101 Macroeconomic Principles 
-+ Econ 1102 Microeconomic Principles 
-+ Econ 3502 Intermediate Macroeconomic Analysis 
++ [Econ 1101 Macroeconomic Principles](https://drive.google.com/file/d/1oLT_XeVNR-FSmw4hqSQEbP0TMWdaPK8j/view?usp=sharing)
++ [Econ 1102 Microeconomic Principles](https://drive.google.com/file/d/1DrwsViudX58LG6789EbYAW2rOBlWBrJC/view?usp=sharing) 
++ [Econ 3502 Intermediate Macroeconomic Analysis](https://drive.google.com/file/d/1p5MJxfZT3vkbiddeMzr8z_X6ZtNWv1Nu/view?usp=sharing)
 
-**[Temple University](https://www.cla.temple.edu/economics/) Undergraduate Teaching Assistant** <br/>
+**Undergraduate Teaching Assistant, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
 **Fall/Spring 2014-2017**
 
 + Econ 1101 Macroeconomic Principles, Prof. Michael A. Leeds, and Prof. Moritz Ritter
