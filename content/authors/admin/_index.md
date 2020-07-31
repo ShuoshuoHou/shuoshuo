@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics 
-    institution: Temple University
-    year: 2021 (expected)
-  - course: MA in Economics
-    institution: Temple University
+  - course: Ph.D. in Economics 
+    institution: Temple University, Philadelphia, USA
+    year: 2021 (Expected)
+  - course: M.A. in Economics
+    institution: Temple University, Philadelphia, USA
     year: 2014
-  - course: BS in Information and Computing Science
-    institution: Shenyang Agricultural University, China
+  - course: B.S. in Information and Computing Science
+    institution: Shenyang Agricultural University, Shenyang, China
     year: 2011
 
 # Social/Academic Networking
@@ -45,6 +45,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "tue40885@temple.edu".
+ social:
+- icon: github
+  icon_pack: fab
+  link: 'https://github.com/ShuoshuoHou'  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tue40885@temple.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
