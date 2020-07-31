@@ -10,6 +10,7 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "The Importance of Input-Output Network Structures in
+the U.S. Economy"
   image: ""
 ---
