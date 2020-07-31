@@ -65,9 +65,14 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ # Organizations/Affiliations
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
+ 
 +++
 
-<h4> [ { name = "Temple University", url = "https://www.temple.edu/" } ] - Undergraduate Instructor  </h4>
+<h4> "[Temple University](https://www.temple.edu/)" - Undergraduate Instructor  </h4>
 
 + Econ 1101 Macroeconomic Principles (*Fall 2020, Summer2019/2018/2017*)
 + Econ 1102 Microeconomic Principles (*Spring 2020*)
