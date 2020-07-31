@@ -11,9 +11,7 @@ subtitle = ""
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy = "Undergraduate Instructor"
-  - Econ 1101: Macroeconomic Principles
-  - Econ 1102: Microeconomic Principles
-  - Econ 3502: Intermediate Macroeconomic Analysis
+
   
   # Choose how many tags you would like to display (0 = all tags)
   count = 20
