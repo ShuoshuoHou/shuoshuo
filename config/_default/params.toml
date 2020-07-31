@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tue40885@temple.edu"
-phone = "*1 (215) 917 1548"
+phone = "+1 (215) 917 1548"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -100,7 +100,7 @@ address = {street = "1801 N Broad St", city = "Philadelphia", region = "PA", pos
 coordinates = {latitude = "40.0714999", longitude = "-75.1415641"}
 
 # Directions for visitors to locate you.
-directions = "Ritter Annex Room 843"
+directions = "Ritter Annex Hall, Room 843"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
