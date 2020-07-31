@@ -72,13 +72,13 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
  
 +++
 
-<h4> [ { name = "Temple University", url = "https://www.temple.edu/" } ] - Undergraduate Instructor  </h4>
+[Temple University](https://www.temple.edu) <h4> - Undergraduate Instructor  </h4>
 
 + Econ 1101 Macroeconomic Principles (*Fall 2020, Summer2019/2018/2017*)
 + Econ 1102 Microeconomic Principles (*Spring 2020*)
 + Econ 3502 Intermediate Macroeconomic Analysis (*Summer 2016*)
 
-<h4> "[Temple University](https://www.temple.edu/)" - Undergraduate Teaching Assistant </h4>
+"[Temple University](https://www.temple.edu/)" <h4> - Undergraduate Teaching Assistant </h4>
 
 + Econ 3563 International Trade (*Spring 2017*)
 + Econ 1102 Microeconomic Principles (*Fall 2016*)
