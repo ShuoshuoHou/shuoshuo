@@ -67,16 +67,22 @@ subtitle = ""
  css_class = ""
 +++
 
-<h4> [Temple University](https://www.temple.edu/) - Undergraduate Instructor  </h4>
+<h4> "[Temple University](https://www.temple.edu/)" - Undergraduate Instructor  </h4>
 
-+ Econ 1101 Macroeconomic Principles 
-  * Fall 2020, Summer 2019, 2018, 2017
-+ Econ 1102 Microeconomic Principles 
-  * Spring 2020
-+ Econ 3502 Intermediate Macroeconomic Analysis
-  * Summer 2016
++ Econ 1101 Macroeconomic Principles (*Fall 2020, Summer2019/2018/2017*)
++ Econ 1102 Microeconomic Principles (*Spring 2020*)
++ Econ 3502 Intermediate Macroeconomic Analysis (*Summer 2016*)
 
-<h4> [Temple University](https://www.temple.edu/) - Undergraduate Teaching Assistant </h4>
+<h4> "[Temple University](https://www.temple.edu/)" - Undergraduate Teaching Assistant </h4>
 
-+ DG8002 - Digital Media Environments *(Fall 2018)*
-  * HTML, CSS, JavaScript, Python
++ Econ 3563 International Trade (*Spring 2017*)
++ Econ 1102 Microeconomic Principles (*Fall 2016*)
++ Econ 3564 International Monetery Economics (*Fall 2016*)
++ Econ 3502 Intermediate Macroeconomic Analysis (*Spring 2016*)
++ Econ 1101 Macroeconomic Principles (*Fall 2014, Spring/Fall 2015, Spring 2016*)
+
+
+
+
+
+
