@@ -46,7 +46,6 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "tue40885@temple.edu".
 
-social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ShuoshuoHou  
