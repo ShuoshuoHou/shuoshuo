@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy = "Undergraduate Instructor"
+  taxonomy = ""
 
   
   # Choose how many tags you would like to display (0 = all tags)
