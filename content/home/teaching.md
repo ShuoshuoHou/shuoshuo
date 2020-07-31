@@ -67,17 +67,16 @@ subtitle = ""
  css_class = ""
 +++
 
-Past TA-ships at Ryerson University:
-<h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
+<h4> [Temple University](https://www.temple.edu/) - Undergraduate Instructor  </h4>
 
-+ ELE202 - Electric Circuit Analysis  *(Winter 2018, 2019)*
-  * Lab bench
-+ BME802 - Human Computer Interaction *(Winter 2018)* 
-  * MATLAB
-+ ELE532 - Signals and Systems 1    *(Fall 2017)*
-  * MATLAB
++ Econ 1101 Macroeconomic Principles 
+  * Fall 2020, Summer 2019, 2018, 2017
++ Econ 1102 Microeconomic Principles 
+  * Spring 2020
++ Econ 3502 Intermediate Macroeconomic Analysis
+  * Summer 2016
 
-<h4> Masters of Digital Media (MDM) </h4>
+<h4> [Temple University](https://www.temple.edu/) - Undergraduate Teaching Assistant </h4>
 
 + DG8002 - Digital Media Environments *(Fall 2018)*
   * HTML, CSS, JavaScript, Python
