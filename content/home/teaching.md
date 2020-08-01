@@ -85,7 +85,7 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 + Econ 1101 Macroeconomic Principles, Prof. Michael A. Leeds, and Prof. Moritz Ritter
 + Econ 1102 Microeconomic Principles, Prof. George M. Lady 
 + Econ 3502 Intermediate Macroeconomic Analysis, Prof. Yuan Yuan 
-+ Econ 3563 International Trade, Prof. Brebden Mason 
++ Econ 3563 International Trade, Prof. Brenden Mason 
 + Econ 3564 International Monetery Economics, Prof. Yuan Yuan 
 
 
