@@ -72,19 +72,19 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
  
 +++
 
-**[Pedro Silos](http://www.pedrosilos.net/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**[Pedro Silos](http://www.pedrosilos.net/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**[Martin Lopez-Daneri](https://mlopezdaneri.com/)** <br/>
 
-**[Martin Lopez-Daneri](https://mlopezdaneri.com/)**
-pedro<span></span>.silos@temple<span></span>.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+pedro<span></span>.silos@temple<span></span>.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 martin<span></span>.lopez-daneri@temple<span></span>.edu 
 <br/>
 
 **[Michael Leeds](https://liberalarts.temple.edu/academics/faculty/leeds-michael)**           
 **[Douglas Webber](https://liberalarts.temple.edu/academics/faculty/webber-douglas)**<br/>
-<br/>
+
 mleeds<span></span>@temple<span></span>.edu
 douglas<span></span>.webber@temple<span></span>.edu
 
