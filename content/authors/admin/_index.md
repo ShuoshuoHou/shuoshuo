@@ -62,8 +62,7 @@ email: "tue40885@temple.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
 ---
 
 Welcome! I am a current Pd.D. Candidate in Economics major at Temple University. I study real business cycle from the micro and macro perspective. I expect to enter the job market in summer 2021.
