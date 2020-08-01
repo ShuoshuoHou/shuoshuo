@@ -1,5 +1,5 @@
 +++
-title = "Teaching"
+title = "References"
 
 # View.
 #   1 = List
