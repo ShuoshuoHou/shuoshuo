@@ -52,8 +52,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #[[url_custom]]
-#name = "Journal"
-#url = "https://link.springer.com/article/10.1007/s10584-014-1174-4"
+#name = ""
+#url = ""
 
 # Does the content use math formatting?
 math = true
@@ -64,10 +64,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ftl.png"
-#caption = "My caption :smile:"
+image = ""
+#caption = ""
 
 +++
-A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease classification.  
-
-In *IEEE Access*, 2019. 
+ 
