@@ -76,12 +76,13 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **[Michael Leeds](https://liberalarts.temple.edu/academics/faculty/leeds-michael)** <br/>        
+
 pedro<span></span>.silos@temple<span></span>.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 mleeds<span></span>@temple<span></span>.edu
 <br/>
 
-**[Martin Lopez-Daneri](https://mlopezdaneri.com/)** <br/>
+**[Martin Lopez-Daneri](https://mlopezdaneri.com/)**             **[Michael Leeds](https://liberalarts.temple.edu/academics/faculty/leeds-michael)**<br/>
 martin<span></span>.lopez-daneri@temple<span></span>.edu 
 
 
