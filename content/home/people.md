@@ -54,12 +54,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- Pedro Silos
- 
- 
 +++
 
-
+ Pedro Silos
 
 
 
