@@ -1,10 +1,10 @@
 +++
-title = "Transfer Learning With Intelligent Training Data Selection for Prediction of Alzheimer’s Disease"
-date = "2019-06-03"
+title = "The Importance of the Input-Output Network Structure in the U.S. Economy"
+date = "2020-07-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
+authors = ["Shuoshuo Hou"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Access."
-#publication_short = "ISBI"
+publication = ""
+#publication_short = ""
 
 # Abstract and optional shortened version.
 
@@ -39,9 +39,9 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = "https://drive.google.com/file/d/16QH2RJol2fAPUjhDC6epV-agrMSLzrnQ/view?usp=sharing"
 url_preprint = ""
-url_code = "https://github.com/nabsabraham/alzheimers"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
