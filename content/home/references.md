@@ -72,21 +72,12 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
  
 +++
 
-**Undergraduate Instructor, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
-**Fall/Spring 2020, Summer 2016-2019**
+**[Pedro Silos](http://www.pedrosilos.net/)** <br/>
+pedro.silos@temple.edu 
+<br/>
 
-+ [Econ 1101 Macroeconomic Principles](https://drive.google.com/file/d/1oLT_XeVNR-FSmw4hqSQEbP0TMWdaPK8j/view?usp=sharing)
-+ [Econ 1102 Microeconomic Principles](https://drive.google.com/file/d/1DrwsViudX58LG6789EbYAW2rOBlWBrJC/view?usp=sharing) 
-+ [Econ 3502 Intermediate Macroeconomic Analysis](https://drive.google.com/file/d/1p5MJxfZT3vkbiddeMzr8z_X6ZtNWv1Nu/view?usp=sharing)
-
-**Undergraduate Teaching Assistant, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
-**Fall/Spring 2014-2017**
-
-+ Econ 1101 Macroeconomic Principles, Prof. Michael A. Leeds, and Prof. Moritz Ritter
-+ Econ 1102 Microeconomic Principles, Prof. George M. Lady 
-+ Econ 3502 Intermediate Macroeconomic Analysis, Prof. Yuan Yuan 
-+ Econ 3563 International Trade, Prof. Brenden Mason 
-+ Econ 3564 International Monetery Economics, Prof. Yuan Yuan 
+**[Martin Lopez-Daneri](https://mlopezdaneri.com/)** <br/>
+martin.lopez-daneri@temple.edu 
 
 
 
