@@ -73,11 +73,11 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 +++
 
 **[Pedro Silos](http://www.pedrosilos.net/)** <br/>
-pedro.silos@temple.edu 
+pedro<span></span>.silos@temple<span></span>.edu 
 <br/>
 
 **[Martin Lopez-Daneri](https://mlopezdaneri.com/)** <br/>
-martin.lopez-daneri@temple.edu 
+martin<span></span>.lopez-daneri@temple<span></span>.edu 
 
 
 
