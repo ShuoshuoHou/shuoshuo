@@ -75,9 +75,9 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 **Undergraduate Instructor, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
 **Fall/Spring 2020, Summer 2016-2019**
 
-+ [Econ 1101 Macroeconomic Principles](https://drive.google.com/file/d/1oLT_XeVNR-FSmw4hqSQEbP0TMWdaPK8j/view?usp=sharing)
-+ [Econ 1102 Microeconomic Principles](https://drive.google.com/file/d/1DrwsViudX58LG6789EbYAW2rOBlWBrJC/view?usp=sharing) 
-+ [Econ 3502 Intermediate Macroeconomic Analysis](https://drive.google.com/file/d/1p5MJxfZT3vkbiddeMzr8z_X6ZtNWv1Nu/view?usp=sharing)
++ [Econ 1101 Macroeconomic Principles](content/Syllabus Econ 1101-Shuoshuo.pdf)
++ [Econ 1102 Microeconomic Principles](content/Syllabus_1102_002.pdf) 
++ [Econ 3502 Intermediate Macroeconomic Analysis](content/Econ3502 Syllabus.pdf)
 
 **Undergraduate Teaching Assistant, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
 **Fall/Spring 2014-2017**
