@@ -39,7 +39,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1-CxOfZkoh6n4aYfigCQcDpMFG0EqceDg/view?usp=sharing"
+url_pdf = "content/Hou_ThirdYear.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
