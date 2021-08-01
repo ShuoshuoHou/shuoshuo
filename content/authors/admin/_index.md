@@ -24,7 +24,6 @@ interests:
 - Macroeconomic Theory
 - Industrial Organization
 
-
 Education:
   courses:
   - course: Ph.D. in Economics 
@@ -44,7 +43,7 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "tue40885@temple.edu".
+  link: '#contact'  # For a direct email link, use "shuoshuo.hou@temple.edu".
 
 - icon: github
   icon_pack: fab
