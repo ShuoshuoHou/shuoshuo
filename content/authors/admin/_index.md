@@ -22,12 +22,12 @@ bio: Welcome! I am a current Pd.D. Candidate in the Department of Economics at T
 
 interests:
   Primary Fields:
-  - Macroeconomic Theory
-    Industrial Organization
+  - Field one: Macroeconomic Theory
+    Field two: Industrial Organization
 
   Secondary Fields:
-  - Macroeconomic Theory
-    Industrial Organization
+  - Field one: Macroeconomic Theory
+    Field two: Industrial Organization
 
 education:
   courses:
