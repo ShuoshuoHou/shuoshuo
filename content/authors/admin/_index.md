@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tue40885@temple.edu"
+email: "shuoshuo.hou@temple.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -65,4 +65,4 @@ user_groups:
 # - Researchers
 ---
 
-Welcome! I am a current Pd.D. Candidate in Economics major at Temple University. I study real business cycle from the micro and macro perspective. I expect to enter the job market in summer 2021.
+Welcome! I am a current Pd.D. Candidate in the Department of Economics at Temple University. My research interests are in Macroeconomics with a focus on the input-output network and business cycle fluctuations. I will be on the job market over the 2021-2021 academic year.
