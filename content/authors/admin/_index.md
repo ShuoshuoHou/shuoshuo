@@ -24,6 +24,10 @@ interests:
   - Macroeconomics (Applied and Theory)
   - Industrial Organization, Financial Economics
 
+interests:
+  - Macroeconomics (Applied and Theory)
+  - Industrial Organization, Financial Economics
+
 education:
   courses:
   - course: Ph.D. in Economics 
