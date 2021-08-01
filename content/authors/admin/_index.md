@@ -25,7 +25,7 @@ Primary Fields:
   - Macroeconomic Theory
   - Industrial Organization
 
-Secondary Fields
+Secondary Fields:
   - Macroeconomic Theory
   - Industrial Organization
 
