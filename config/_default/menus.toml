@@ -16,7 +16,7 @@
 [[main]]
   name = "Research"
   url = "#featured"
-  weight = 50
+  weight = 30
   
 [[main]]
   name = "References"
