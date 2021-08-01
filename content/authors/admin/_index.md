@@ -24,7 +24,7 @@ interests:
 - Macroeconomic Theory
 - Industrial Organization
 
-Education:
+education:
   courses:
   - course: Ph.D. in Economics 
     institution: Temple University, Philadelphia, USA
