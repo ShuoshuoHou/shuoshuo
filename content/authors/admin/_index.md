@@ -21,8 +21,8 @@ organizations:
 bio: Welcome! I am a current Pd.D. Candidate in the Department of Economics at Temple University. My research interests are in Macroeconomics with a focus on the input-output network and business cycle fluctuations. I will be on the job market over the 2021-2021 academic year.
 
 interests:
-- Macroeconomic Theory, Applied Macroeconomics
-- Industrial Organization, Financial Economics
+- Macroeconomic Theory
+- Industrial Organization
 
 
 Education:
