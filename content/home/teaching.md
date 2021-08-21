@@ -82,11 +82,11 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 **Undergraduate Teaching Assistant, [Temple University](https://www.cla.temple.edu/economics/)** <br/>
 **Fall 2021, Fall/Spring 2014-2017**
 
-+ Econ 1101 Macroeconomic Principles, Prof. Michael Leeds/ Prof. Moritz Ritter
-+ Econ 1102 Microeconomic Principles, Prof. George Lady/ Prof. Shreyasee Das
-+ Econ 3502 Intermediate Macroeconomic Analysis, Prof. Yuan Yuan 
-+ Econ 3563 International Trade, Prof. Brenden Mason 
-+ Econ 3564 International Monetery Economics, Prof. Yuan Yuan 
++ Econ 1101 Macroeconomic Principles, Professor Michael Leeds/ Professor Moritz Ritter
++ Econ 1102 Microeconomic Principles, Professor Shreyasee Das/Professor George Lady
++ Econ 3502 Intermediate Macroeconomic Analysis, Professor Yuan Yuan 
++ Econ 3563 International Trade, Professor Brenden Mason 
++ Econ 3564 International Monetery Economics, Professor Yuan Yuan 
 
 
 
