@@ -37,7 +37,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "content/Hou_ThirdYear.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
