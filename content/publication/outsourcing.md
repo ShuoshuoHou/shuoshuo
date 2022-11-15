@@ -1,6 +1,6 @@
 +++
-title = "The impact of service outsourcing on labor productivity (work in progress)"
-date = "2021-08-01"
+title = "The Impact of Service Outsourcing on Labor Productivity (work in progress)"
+date = "2022-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -23,7 +23,7 @@ publication = ""
 
 # Abstract and optional shortened version.
 
-abstract = "This paper investigates the impact of service outsourcing on sectoral labor productivity in the U.S. over the period 1963-2019. I observe that service-related sectors have substantially increased their central positions as input suppliers in the U.S. economy, and it is where most of the service outsourcing activity is concentrated. Outsourcing refers to a situation where firms or industries contract out particular types of jobs, such as accounting, data analyzing, and cleaning, to specialized companies rather than produce them in-house. Moreover, I determine a significant positive relationship between movements in employment in service sectors and changes in their inputs supplied. The fact implies that this structural transformation induces the reallocation of employment across industries. Therefore, it might also influence sectoral (or service) labor productivity. To account for these sectoral movements, I incorporate the input-output network into a multisector real business cycle model to quantitatively gauge the changes in the composition of intermediate inputs and their sourcing mode to labor productivity."
+# abstract = "This paper investigates the impact of service outsourcing on sectoral labor productivity in the U.S. over the period 1963-2019. I observe that service-related sectors have substantially increased their central positions as input suppliers in the U.S. economy, and it is where most of the service outsourcing activity is concentrated. Outsourcing refers to a situation where firms or industries contract out particular types of jobs, such as accounting, data analyzing, and cleaning, to specialized companies rather than produce them in-house. Moreover, I determine a significant positive relationship between movements in employment in service sectors and changes in their inputs supplied. The fact implies that this structural transformation induces the reallocation of employment across industries. Therefore, it might also influence sectoral (or service) labor productivity. To account for these sectoral movements, I incorporate the input-output network into a multisector real business cycle model to quantitatively gauge the changes in the composition of intermediate inputs and their sourcing mode to labor productivity."
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
