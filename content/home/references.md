@@ -78,7 +78,7 @@ organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 **[Martin Lopez-Daneri](https://mlopezdaneri.com/)** <br/>
 pedro<span></span>.silos@temple<span></span>.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-martin<span></span>.lopez-daneri@temple<span></span>.edu 
+mlopezdaneri<span></span>@gmail<span></span>.com 
 <br/>
 
 **[Michael Leeds](https://liberalarts.temple.edu/academics/faculty/leeds-michael)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
