@@ -1,5 +1,5 @@
 +++
-title = "Do financial shocks drive real business cycle fluctuations in China?"
+title = "Do Financial Shocks Drive Real Business Cycle Fluctuations in China?"
 date = "2022-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
