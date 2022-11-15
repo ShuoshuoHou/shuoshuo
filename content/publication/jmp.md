@@ -1,6 +1,6 @@
 +++
 title = "The Importance of Input-Output Network Structure in the U.S. Economy"
-date = "2021-07-31"
+date = "2022-10-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
