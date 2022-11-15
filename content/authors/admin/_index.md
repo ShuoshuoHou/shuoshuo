@@ -18,7 +18,7 @@ organizations:
   url: "https://www.temple.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome! I am a current Pd.D. Candidate in the Department of Economics at Temple University. My primary research interest is in Macroeconomics with a focus on the input-output network theory and business cycle fluctuations. I will be on the job market over the 2022-2023 academic year. 
+bio: Welcome! I am a current Ph.D. Candidate in the Department of Economics at Temple University. My primary research interest is in Macroeconomics with a focus on the input-output network theory and business cycle fluctuations. I will be on the job market over the 2022-2023 academic year. 
 
 interests:
   - Macroeconomics 
