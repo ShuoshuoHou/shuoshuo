@@ -1,6 +1,6 @@
 +++
 title = "The Impact of Service Outsourcing on Labor Productivity (work in progress)"
- date = "2022"
+ date = "2022-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
