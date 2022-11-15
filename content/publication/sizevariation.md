@@ -1,5 +1,5 @@
 +++
-title = "The Network Origin of the Industry Size Variations"
+title = "The Network Origin of Industry Size Variations (work in progress)"
 date = "2022-01-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
